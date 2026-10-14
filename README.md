@@ -4,124 +4,148 @@
 
 <h1 align="center">Hi, I'm Lise 💖</h1>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Role-Data%20%26%20Software%20Engineer-FF7EB6?style=for-the-badge&logo=github" />
-  <img src="https://img.shields.io/badge/Focus-Data%20Engineering%20%2F%20ML-CB6CE6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Location-Remote%20%2F%20Worldwide-8F7AF5?style=for-the-badge" />
-</p>
+<h3 align="center">
+🎓 Computer Science Student | 📊 Data Enthusiast | 💻 Fullstack Developer
+</h3>
 
 <p align="center">
-  I build data products and services that turn messy data into clear, actionable insights — with beautiful interfaces and reliable engineering.
-  I enjoy end-to-end work: data collection and pipelines, model prototyping, APIs, and polished front-end dashboards.
-</p>
-
-<p align="center">
-  <a href="https://github.com/lise-no">
-    <img src="https://img.shields.io/badge/GitHub-%40lise-no-181717?style=flat-square&logo=github" />
-  </a>
-  <a href="https://www.linkedin.com/in/lise-djeutcheu-nono/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" />
-  </a>
-  <a href="mailto:nonolise@yahoo.com">
-    <img src="https://img.shields.io/badge/Email-Contact-FF69B4?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://yourportfolio.com">
-    <img src="https://img.shields.io/badge/Portfolio-View-9B5DE5?style=flat-square" />
-  </a>
+  <img src="https://img.shields.io/badge/Looking%20for-Alternance-FF7EB6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Location-Nantes%20%7C%20France-CB6CE6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Focus-Data%20%26%20Fullstack-8F7AF5?style=for-the-badge" />
 </p>
 
 ---
 
-## ✨ Short bio
+## 👋 About Me
 
-- 💼 Data & Software Engineer focused on building reliable data pipelines, APIs, and developer-friendly analytics.
-- 🔬 I prototype ML models, productionize data workflows, and ship dashboards that help teams make decisions.
-- 🌱 I love clean code, reproducible experiments, and thoughtful UX for data products.
+I'm currently a **3rd-year Computer Science student (Licence 3 Informatique)** passionate about:
+
+- 📊 Data Engineering & Data Analysis
+- 🤖 Machine Learning & Artificial Intelligence
+- 💻 Fullstack Development
+- 🗄️ Database Design & SQL
+- 🚀 Building useful and user-friendly applications
+
+I enjoy transforming ideas into concrete projects, from database modeling and backend development to creating intuitive user interfaces.
+
+🎯 **Currently looking for a work-study (alternance) opportunity in Data, AI, Software Engineering, or Fullstack Development in Nantes or anywhere in France.**
 
 ---
 
-## 🛠️ Core skills
+## 🛠️ Technologies & Tools
 
-### Data & ML
+### Programming Languages
+
 <p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+### Data & Databases
+
+<p>
+  <img src="https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-0064A5?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### Data Engineering & Cloud
-<p>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Airflow-017E9A?style=for-the-badge&logo=apache-airflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-GR-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
+### Web Development
 
-### Software & Frontend
 <p>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/API-REST%20/%20GraphQL-8B5CF6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Git%20%26%20CI-CD-24292F?style=for-the-badge&logo=git" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20API-8B5CF6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Git-24292F?style=for-the-badge&logo=git&logoColor=white" />
 </p>
 
 ---
 
-## 🔍 Areas I focus on
+## 🌱 What I'm Learning
 
-- ETL / ELT: building repeatable pipelines and schema-first designs
-- Model prototyping & evaluation: data preprocessing, training, and CI for models
-- APIs & microservices: shipping backend endpoints for analytics and features
-- Dashboards & visualization: turning results into actionable UI
-- Reproducibility: tests, CI, Docker, and infrastructure-as-code
-
----
-
-## 🌟 Featured projects
-
-### roulette_bis
-https://github.com/lise-no/roulette_bis
-- A full-stack project showcasing interactive UI and backend logic.
-- Skills: React, Node, state management, deployment.
-
-### compression_image
-https://github.com/lise-no/compression_image
-- Utility for image compression and optimization — helpful for pipelines and web performance.
-- Skills: Next.js, performance, automation.
-
-### arbo
-https://github.com/lise-no/arbo
-- Project focused on data structures / file trees / automation (adapt description as needed).
-- Skills: JavaScript, algorithms, scripting.
-
-(If you'd like, I can add short demo GIFs or screenshots for each repo.)
+- Data Engineering pipelines
+- Machine Learning fundamentals
+- Software Architecture
+- Fullstack Web Development
+- Cloud & DevOps basics
+- Advanced SQL and database optimization
 
 ---
 
-## 📈 GitHub stats
+## 🚀 Featured Projects
+
+### 🎲 roulette_bis
+
+🔗 https://github.com/lise-no/roulette_bis
+
+Interactive application combining frontend and backend development.
+
+**Technologies:** React, JavaScript, Node.js
+
+---
+
+### 🖼️ compression_image
+
+🔗 https://github.com/lise-no/compression_image
+
+Tool designed to compress and optimize images while maintaining quality.
+
+**Technologies:** Next.js, JavaScript
+
+---
+
+### 🌳 arbo
+
+🔗 https://github.com/lise-no/arbo
+
+Project focused on tree structures, file organization and algorithmic concepts.
+
+**Technologies:** JavaScript, Algorithms
+
+---
+
+## 📚 Academic Interests
+
+- Artificial Intelligence
+- Data Science
+- Machine Learning
+- Data Engineering
+- Database Systems
+- Fullstack Development
+- Software Engineering
+
+---
+
+## 💼 Looking For
+
+I am currently seeking an **alternance (work-study position)** in:
+
+- Data Analyst
+- Data Engineer
+- AI / Machine Learning
+- Software Developer
+- Fullstack Developer
+
+📍 Nantes, Remote, or anywhere in France.
+
+---
+
+## 📫 Contact
+
+📧 nonolise@yahoo.com
+
+🔗 LinkedIn:
+https://www.linkedin.com/in/lise-djeutcheu-nono
+
+🔗 GitHub:
+https://github.com/lise-no
+
+---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lise-no&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lise-no&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Contact & availability
-
-- Email: nonolise@yahoo.com
-- Open to: freelance/data engineering, ML prototyping, backend and full-stack roles
-- Portfolio / CV: https://yourportfolio.com
-
----
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4-FF69B4?style=for-the-badge" />
+  <i>Always curious, always learning, always building ✨</i>
 </p>
