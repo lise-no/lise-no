@@ -35,10 +35,13 @@ I enjoy transforming ideas into concrete projects, from database modeling and ba
 ## 🛠️ Technologies & Tools
 
 ### Programming Languages
-
-
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://isocpp.org) [![Java](https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white)](https://www.oracle.com/java/) [![OCaml](https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white)](https://ocaml.org)  
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/docs/Web/JavaScript) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+<p>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-E76F00?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/OCaml-EC6813?style=for-the-badge&logo=ocaml&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
 
 
 ### Data & Databases
@@ -72,36 +75,43 @@ I enjoy transforming ideas into concrete projects, from database modeling and ba
 - Advanced SQL and database optimization
 
 ---
-
 ## 🚀 Featured Projects
 
 ### 🎲 roulette_bis
-
 🔗 https://github.com/lise-no/roulette_bis
 
-Interactive application combining frontend and backend development.
+This project is a Java-based object-oriented programming exercise centered around a casino roulette simulation. It models the main elements of a game, including players, the casino, betting actions, machine behavior, and game flow. The repository also includes UML diagrams and design documentation, which highlights the architecture and the logic behind the implementation.
 
-**Technologies:** React, JavaScript, Node.js
+Technologies:
+- Java
+- UML
+- PDF design documentation
 
 ---
 
 ### 🖼️ compression_image
-
 🔗 https://github.com/lise-no/compression_image
 
-Tool designed to compress and optimize images while maintaining quality.
+This project focuses on image compression and optimization. It includes source files, sample image assets, and a test folder, which suggests a workflow aimed at reducing image size while preserving visual quality. The repository structure indicates a practical implementation for handling image processing and optimization tasks.
 
-**Technologies:** Next.js, JavaScript
+Technologies:
+- JavaScript
+- Node.js
+- Image processing scripts
+- Testing folder for validation
 
 ---
 
 ### 🌳 arbo
-
 🔗 https://github.com/lise-no/arbo
 
-Project focused on tree structures, file organization and algorithmic concepts.
+This project is centered on tree structures and algorithmic manipulation of hierarchical data. It is designed to explore concepts such as tree traversal, data organization, and structured file management. The repository includes a project folder and documentation that suggest a focus on logic, organization, and algorithmic thinking.
 
-**Technologies:** JavaScript, Algorithms
+Technologies:
+- Ocaml
+- Algorithms and data structure logic
+- Tree-based data modeling
+
 
 ---
 
@@ -140,6 +150,9 @@ https://www.linkedin.com/in/lise-djeutcheu-nono
 
 🔗 GitHub:
 https://github.com/lise-no
+
+🔗 Portfolio:
+
 
 ---
 
